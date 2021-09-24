@@ -1,0 +1,8 @@
+#
+# pip依存関係
+#
+
+# pip
+
+# GitHub
+git+https://github.com/Enchan1207/DotenvLoader
